@@ -18,3 +18,10 @@ I play games and listen to music too.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexlth&layout=compact&theme=radical&hide=PHP&langs_count=6" height="172" alt="Top languages card" style="display:inline-block;" />
 
 </div>
+
+                         ⌁                             ⌁                       ║║
+     ⌁     ⌁           /|\            ⌁     ⌁        /|\ ⌁                  ║║         ⌁
+
+⌁ /|\ /|\ ⌁ /|\ ⌁ ⌁ /|\ /|\ ⌁ /|\/|\ ⌁ ⌂**|| /|\ ⌁ ⌁ ⌁
+/|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\/|\ /|\ /🌙.**\ /|\/|\ /|\ /|\
+ .| ☁|.. .|█ /|\ | ☁█|. .| ☁|.. .|█ /|\ | ☁|. /|\ |⌨ | | .| ☁|.. .|█ /|\
