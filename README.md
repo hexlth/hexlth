@@ -1,4 +1,4 @@
-## 🫡 Hey there!
+## Hey there!
 
 I am Brian Wang, an Trinity College Dublin undergraduate student in computer science.
 **`Aspiring AI/ML Postgrad Student`**
